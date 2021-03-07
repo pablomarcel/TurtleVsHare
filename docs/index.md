@@ -110,4 +110,4 @@ while game_status == 'CONTINUE':
 #### Listing 1. Turtle vs Hare Script
 
 ## Summary
-  It is to be explored the win probability for each actor. As a follow up project, a simulation will be created to count the number of times each actor wins and estimate win probability.
+  The win probability will be explored in a follow up project, a simulation will be created to count the number of times each actor wins to estimate win probability.
