@@ -10,8 +10,8 @@ Pablo Marcel
 
  This is a simulation of a race between a Turtle and a Hare
 
-![Turtle vs. Hare](turtle-vs-hare.png)
+![Turtle vs. Hare](hare-winning.png)
 #### Figure 1. Shows the Hare winning 
 
-![Turtle vs. Hare](turtle-wins.png)
+![Turtle vs. Hare](turtle-winning.png)
 #### Figure 1. Shows the Turtle winning 
