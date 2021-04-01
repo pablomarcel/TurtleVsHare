@@ -10,5 +10,8 @@ Pablo Marcel
 
  This is a simulation of a race between a Turtle and a Hare
 
-![Turtle vs. Hare](solar-system.PNG)
-#### Figure 1. Shows a screenshot of the Solar System Project 
+![Turtle vs. Hare](turtle-vs-hare.png)
+#### Figure 1. Shows the Hare winning 
+
+![Turtle vs. Hare](turtle-wins.png)
+#### Figure 1. Shows the Turtle winning 
