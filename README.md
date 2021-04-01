@@ -4,7 +4,7 @@ Pablo Marcel
 
  Turtle vs. Hare
  
-[Github Pages](https://pablomarcel.itch.io/solar-system) "Turtle vs. Hare Github Website"
+[Github Pages](https://pablomarcel.github.io/TurtleVsHare/) "Turtle vs. Hare Github Website"
 
 # Introduction
 
